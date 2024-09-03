@@ -1,0 +1,20 @@
+.header {
+    top:0;
+    padding: 5px 10px;
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.menu {
+    font-size: 24px;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+}
+
+.header h2{
+    color: white;
+}
